@@ -1,8 +1,3 @@
-Here is a beautifully designed, clean, professional **README.md** with emojis, sections, and styling.
-Just copy-paste it into your GitHub — it will look great 🔥
-
----
-
 # 🌿 **Calm Landing Page — HTML & CSS Project**
 
 <p align="center">
