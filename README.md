@@ -16,6 +16,9 @@ The main objective of the project is to practice transforming a **UI design into
 
 ---
 
+🖼️ Preview
+<p align="center"> <img src="images/pervwei.png" alt="Calm Landing Page Preview" width="900"> </p>
+
 ## 🎯 **Key Features**
 
 ✔️ Fully responsive layout (desktop + mobile)
