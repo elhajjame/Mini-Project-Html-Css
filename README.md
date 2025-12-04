@@ -84,10 +84,3 @@ This project is for educational purposes only.
 All images belong to their respective owners.
 
 ---
-
-If you want, I can:
-🔥 Add your name at the top
-📸 Create a preview image banner for the README
-🎨 Improve the README with more visuals or badges
-
-Just tell me!
